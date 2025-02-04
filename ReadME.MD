@@ -1,7 +1,7 @@
 # List of Papers
 | Paper | Authors | Year | Slide | Code |
 |--------------------------------------|--------|---------|-------|-------|
-| [Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision](https://arxiv.org/abs/2312.09390) | OpenAI SuperAlignment Team | ICML'24 | [slide](<slides/Weak-to-Strong Generalization-Eliciting Strong Capabilities With Weak Supervision.pdf>) | |
+| [Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision](https://arxiv.org/abs/2312.09390) | OpenAI SuperAlignment Team | ICML'24 | [slide](<slides/Weak-to-Strong Generalization-Eliciting Strong Capabilities With Weak Supervision.pdf>) | [github](https://github.com/openai/weak-to-strong)|
 | [Theoretical Analysis of Weak-to-Strong Generalization](https://arxiv.org/abs/2405.16043) | Hunter Lang, David Sontag, Aravindan Vijayaraghavan | NeurIPS'24 | [slide](<slides/Theoretical Analysis of Weak-to-Strong Generalization.pdf>) |  |
 | [Quantifying the Gain in Weak-to-Strong Generalization](https://arxiv.org/abs/2405.15116) | Moses Charikar, Chirag Pabbaraju, Kirankumar Shiragur | NeurIPS'24 | [slide](<slides/Quantifying the Gain in Weak-to-Strong Generalization.pdf>) | |
 | [Co-Supervised Learning: Improving Weak-to-Strong Generalization with Hierarchical Mixture of Experts](https://arxiv.org/abs/2402.15505) | Liu, Yuejiang, and Alexandre Alahi | ArXiv'24 |  |  |
