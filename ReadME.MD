@@ -11,3 +11,4 @@
 | [Super(ficial)-alignment: Strong models may deceive weak models in weak-to-strong generalization](https://arxiv.org/abs/2406.11431) | Yang, Wenkai, et al. | ICLR'25 |  |
 | [Weak-to-Strong Generalization Through the Data-Centric Lens](https://arxiv.org/abs/2412.03881) | Shin, Changho, John Cooper, and Frederic Sala | ICLR'25 | |
 | [Weak-to-Strong Preference Optimization: Stealing Reward from Weak Aligned Model](https://arxiv.org/abs/2410.18640) | Zhu, Wenhong, et al. | ICLR'25 | |
+| [Weak to Strong Generalization for Large Language Models with Multi-capabilities(https://openreview.net/forum?id=N1vYivuSKq)] | Yucheng Zhou, Jianbing Shen, Yu Cheng | ICLR'25| |
